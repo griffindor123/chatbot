@@ -124,7 +124,6 @@ def bot_response(user_input):
 
      
 
-       ![chatbot](https://user-images.githubusercontent.com/56115273/102219509-94470200-3f05-11eb-9a0d-8c51b7018e17.jpg)
 
            
       
